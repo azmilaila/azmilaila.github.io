@@ -1,0 +1,8 @@
+Origin: Lailaazmi Repo
+Label: Lailaazmi Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: "Harapan Pemuda Indonesia"

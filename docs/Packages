@@ -1,0 +1,20 @@
+Package: com.nandhaazmi.jooxpremium
+Version: 4.0.7
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <lailaazmi@my.com>
+Depends: firmware (>=8), mobilesubstrate
+Filename: ./pkg/com.azmilaila.jooxpremium.deb
+Size: 134296
+MD5sum: b9dcaa63a3f214826c7e2c14c3b6958a
+SHA1: eb9b909fceed8ffff811e014a12547ddc558543d
+SHA256: 8547e57e26155981a90571abb2340d2eebccc5e605b907309e419012e959f0be
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: VIP Music, Download songs and listen to them Offline (320kbps) HI-FI, DTS Active, Enjoy Music!
+Author: Laila Azmi <azmilaila@my.com>
+Depiction: https://azmilaila.github.io/depiction/web/com.azmilaila.jooxpremium.html
+Icon: https://azmilaila.github.io/assets/com.azmilaila.jooxpremium/icon.png
+Moderndepiction: https://azmilaila.github.io/depiction/native/com.azmilaila.jooxpremium.json
+Name: Joox Premium
+Sileodepiction: https://azmilaila.github.io/depiction/native/com.azmilaila.jooxpremium.json
+
