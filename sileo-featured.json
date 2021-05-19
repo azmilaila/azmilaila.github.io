@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-       "url":"https://azmilaila.github.io/laila/com.azmilaila.bazaart/screenshots/1.PNG",
+       "url":"https://azmilaila.github.io/laila/com.azmilaila.bazaart/banner.png",
        "title":"Bazaart® Vip",
        "package":"com.azmilaila.bazaart",
        "hideShadow":false
