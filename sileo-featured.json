@@ -4,21 +4,21 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-       "url":"https://azmilaila.github.io/depictions/com.azmilaila.bazaartvip/screenshots/1.PNG",
-       "title":"Bazaart Vip",
-       "package":"com.azmilaila.bazaartvip",
+       "url":"https://azmilaila.github.io/laila/com.azmilaila.bazaart/screenshots/1.PNG",
+       "title":"Bazaart® Vip",
+       "package":"com.azmilaila.bazaart",
        "hideShadow":false
     },
     {
        "url":"https://i.ytimg.com/vi/98flVeX1odM/maxresdefault.jpg",
        "title":"DU Recorder Vip",
-       "package":"com.azmilaila.durecordervip",
+       "package":"com.azmilaila.durecorder",
        "hideShadow":false
     },
     {
       "url": "https://9to5mac.com/wp-content/uploads/sites/6/2019/08/guardian-firewall-vpn-ios-app.png?w=1600",
       "title": "Guardian Firewall",
-      "package": "com.azmilaila.guardianvip",
+      "package": "com.azmilaila.guardian",
       "hideShadow": false
     },
     {
@@ -28,22 +28,22 @@
       "hideShadow": false
     },
     {
-      "url": "https://azmilaila.github.io/depictions/com.azmilaila.focosvip/screenshots/1.PNG",
+      "url": "https://azmilaila.github.io/laila/com.azmilaila.focos/screenshots/1.PNG",
       "title": "Focos Vip",
-      "package": "com.azmilaia.focosvip",
+      "package": "com.azmilaia.focos",
       "hideShadow": false
     },
       {
-         "url":"https://azmilaila.github.io/depictions/com.azmilaila.enlightpixaloopvip/screenshots/1.PNG",
+         "url":"https://azmilaila.github.io/laila/com.azmilaila.enlightpixaloop/screenshots/1.PNG",
          "title":"Enlight Pixaloop Vip",
-         "package":"com.azmilaila.enlightpixaloopvip",
+         "package":"com.azmilaila.enlightpixaloop",
          "hideShadow":false
       },
 
         {
            "url":"https://o.aolcdn.com/images/dims?quality=85&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F1d8d1b4ae0e3095a29d2c8b59bb4f885%2F205752810%2FTwitterrific_macOS_logo.jpg&client=amp-blogside-v2&signature=75a9da2cb2c0c99f6cbedc372709b8fc9d765ce5",
            "title":"Twitterrific 5",
-           "package":"com.lailaazmi.twitterrific5vip",
+           "package":"com.lailaazmi.twitterrific5",
            "hideShadow":false
         },
   ]
