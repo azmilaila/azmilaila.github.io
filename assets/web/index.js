@@ -3,14 +3,14 @@ function compatible(works_min, works_max, tweak_compatibility) {
     works_min = numerize(works_min);
     works_max = numerize(works_max);
     let el = document.querySelector(".compatibility");
-    if(currentiOS < works_min) {
+    if (currentiOS < works_min) {
         el.innerHTML = "Your version of iOS is too old for this package. This package works on " + tweak_compatibility + ".";
         el.classList.add("red")
     } else if(currentiOS > works_max) {
-        el.innerHTML = "✓ Your device is supported.";
-        el.classList.add("green")
+        el.innerHTML = "Your version of iOS is too new for this package. This package works on " + tweak_compatibility + ".";
+        el.classList.add("red")
     } else if(String(currentiOS) != "NaN") {
-        el.innerHTML = "This package works on your device!";
+        el.innerHTML = "Your device is supported ✔︎";
         el.classList.add("green")
     }
 }
@@ -32,4 +32,15 @@ function externalize() {
     for (var i = document.querySelectorAll("a").length - 1; i >= 0; i--) {
         document.querySelectorAll("a")[0].setAttribute("target","blank")
     }
+}
+function darkMode(isOled) {
+    var darkColor = isOled ? "black" : "#000000";
+    document.querySelector("body").style.color = "white";
+    document.querySelector("body").style.background = darkColor;
+    for (var i = document.querySelectorAll(".subtle_link, .subtle_link > div > div, .subtle_link > div > div > p").length - 1; i >= 0; i--) {
+        document.querySelectorAll(".subtle_link, .subtle_link > div > div, .subtle_link > div > div > p")[i].style.color = "white";
+    }
+}
+if (navigator.userAgent.toLowerCase().indexOf("dark") != -1) {
+    darkMode(navigator.userAgent.toLowerCase().indexOf("oled") != -1 || navigator.userAgent.toLowerCase().indexOf("pure-black") != -1);
 }
