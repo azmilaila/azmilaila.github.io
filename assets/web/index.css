@@ -219,8 +219,10 @@ a {
     float: right;
 }
 
-body > .skiptranslate {
-    display: none;
+.goog-te-banner-frame{visibility:hidden !important;
+}
+
+#body-main{top:0px !important;
 }
 
 @media (prefers-color-scheme: dark) {
