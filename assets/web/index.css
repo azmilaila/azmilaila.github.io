@@ -219,16 +219,8 @@ a {
     float: right;
 }
 
-.goog-logo-link {
-   display:none !important;
-}
-
-.goog-te-gadget {
-   color: transparent !important;
-}
-
-.goog-te-gadget .goog-te-combo {
-   color: blue !important;
+body > .skiptranslate {
+    display: none;
 }
 
 @media (prefers-color-scheme: dark) {
