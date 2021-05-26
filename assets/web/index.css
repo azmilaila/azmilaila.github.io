@@ -219,7 +219,7 @@ a {
     float: right;
 }
 
-.goog-te-banner-frame{visibility:hidden !important;
+[css].goog-te-banner-frame{visibility:hidden !important;
 }
 
 #body-main{top:0px !important;
