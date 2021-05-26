@@ -219,15 +219,8 @@ a {
     float: right;
 }
 
-@media (prefers-color-scheme: dark) {
-    body {
-        background: #000000;
-        color: white;
-    }
-
-    .subtle_link, .subtle_link > div > div, .subtle_link > div > div > p {
-        color: white;
-    }
+body > .skiptranslate {
+    display: none;
 }
 
 .goog-logo-link {
@@ -240,4 +233,15 @@ a {
 
 .goog-te-gadget .goog-te-combo {
    color: blue !important;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #000000;
+        color: white;
+    }
+
+    .subtle_link, .subtle_link > div > div, .subtle_link > div > div > p {
+        color: white;
+    }
 }
