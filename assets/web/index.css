@@ -219,10 +219,6 @@ a {
     float: right;
 }
 
-body > .skiptranslate {
-    display: none;
-}
-
 .goog-logo-link {
    display:none !important;
 }
