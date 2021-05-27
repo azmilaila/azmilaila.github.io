@@ -243,43 +243,46 @@ a {
 .goog-text-highlight { background: none !important; box-shadow: none !important;
 }
 
-.box {  
-  transition: opacity 2s linear;  
-  transform:translate(0);
-  opacity: 1;
+.slideshow {
+  height: 150px;
+  margin: 0 auto;
+  position: relative;
+  transform: translate3d(0, 0, 0);
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+  background-color: blue;
 }
 
-.hidden {  
-  transform:translate(9999px);
-  opacity: 0;  
+.move {
+  height: 100%;
+  transform: translate3d(0, 0, 0);
+  display: flex;
+  animation: moveSlideshow 10s linear infinite;
 }
 
-@keyframes fade-out {
-  0% {opacity: 1; font-size: 1em;}
-  100% {opacity: 0; font-size: 0;}
+.move:nth-child(2) img {
+  opacity: 0.4;
+
+}
+.move > img {
+  height: 150px;
+  width: auto;
 }
 
-.header-link-fade {
-  animation-name: fade-out;
-  animation-duration: .4s;
-  animation-iteration-count: 1;
-  animation-fill-mode: forwards;
+
+.slideshow:hover .move {
+  animation-play-state: paused;
 }
 
-body {
-  /* Disables pull-to-refresh and overscroll glow effect.
-     Still keeps swipe navigations. */
-  overscroll-behavior-y: none;
-}
-
-.sidebar {
-    min-width: 220px;
-    max-width: 220px;
-    min-height: calc(100vh - 56px);
-}
-.wrapper-toggled .sidebar {
-    margin-left: -220px;
-}
+@keyframes moveSlideshow {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+    /*The width of the page needs to be taken into consideration*/
+  }
 
 @media (prefers-color-scheme: dark) {
     body {
