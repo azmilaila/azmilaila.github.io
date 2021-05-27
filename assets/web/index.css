@@ -243,47 +243,6 @@ a {
 .goog-text-highlight { background: none !important; box-shadow: none !important;
 }
 
-.slideshow {
-  height: 150px;
-  margin: 0 auto;
-  position: relative;
-  transform: translate3d(0, 0, 0);
-  display: flex;
-  width: 100%;
-  overflow: hidden;
-  background-color: blue;
-}
-
-.move {
-  height: 100%;
-  transform: translate3d(0, 0, 0);
-  display: flex;
-  animation: moveSlideshow 10s linear infinite;
-}
-
-.move:nth-child(2) img {
-  opacity: 0.4;
-
-}
-.move > img {
-  height: 150px;
-  width: auto;
-}
-
-
-.slideshow:hover .move {
-  animation-play-state: paused;
-}
-
-@keyframes moveSlideshow {
-  0% {
-    transform: translateX(0%);
-  }
-  100% {
-    transform: translateX(-100%);
-    /*The width of the page needs to be taken into consideration*/
-  }
-
 @media (prefers-color-scheme: dark) {
     body {
         background: #000000;
