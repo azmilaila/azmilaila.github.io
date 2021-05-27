@@ -243,6 +243,29 @@ a {
 .goog-text-highlight { background: none !important; box-shadow: none !important;
 }
 
+.box {  
+  transition: opacity 2s linear;  
+  transform:translate(0);
+  opacity: 1;
+}
+
+.hidden {  
+  transform:translate(9999px);
+  opacity: 0;  
+}
+
+@keyframes fade-out {
+  0% {opacity: 1; font-size: 1em;}
+  100% {opacity: 0; font-size: 0;}
+}
+
+.header-link-fade {
+  animation-name: fade-out;
+  animation-duration: .4s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background: #000000;
