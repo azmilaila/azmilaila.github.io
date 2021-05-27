@@ -168,6 +168,10 @@ h3 {
     color: #ba0000;
 }
 
+.orange {
+    color: #de6e00;
+}
+
 .banner_underlay {
     background-size: cover;
     background-position: center;
@@ -241,6 +245,17 @@ a {
 }
 
 .goog-text-highlight { background: none !important; box-shadow: none !important;
+}
+
+.circle-icon {
+    background: #ffc0c0;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 30px;
 }
 
 @media (prefers-color-scheme: dark) {
