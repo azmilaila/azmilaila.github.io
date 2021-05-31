@@ -10,6 +10,7 @@ dpkg-scanpackages -m . /dev/null >Packages
 bzip2  Packages
 dpkg-scanpackages debs /dev/null > Packages
 xz -c9 Packages > Packages.xz
+rm -r Packages
 
 git add --all
 git commit -m "azmilaila"
