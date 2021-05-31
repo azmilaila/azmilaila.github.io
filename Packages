@@ -1,0 +1,433 @@
+Package: com.azmilaila.airbrush
+Version: 4.18.6
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.airbrush.deb
+Size: 70318
+MD5sum: 55cea5d0015172878e9c1e91ac592f5f
+SHA1: 2d4cecd9fa672f1c64b5aee2079df383613ca68a
+SHA256: 89b775ff10dd24d525e7672784be8317b13c42a02ef0f8b49b26c967a6a62c10
+Section: Tweaks
+Description:
+  • Unlocked All Features.
+  • No ads, No Watermark
+  • Save HD Picture & More
+  • Enjoy Premium Lifetime
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.airbrush.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.airbrush/icon.png
+Name: AirBrush® Vip
+
+Package: com.azmilaila.airglow
+Version: 3.4
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.airglow.deb
+Size: 66960
+MD5sum: ec0888f3d02d0b04474a842fa844a53a
+SHA1: 0f9dcee7233b8b91d87b5754a08747de2ce5c229
+SHA256: 1bae7c0c15cf12b6fc33c9d63830021f709c4fa9079630a1aad2e72e3eff0b2d
+Section: Tweaks
+Description:
+  • Unlocked All Features.
+  • Enjoy Premium Lifetime
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.airglow.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.airglow/icon.png
+Name: AirGlow® Vip
+
+Package: com.azmilaila.altstoreplus
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi
+Installed-Size: 365
+Depends: firmware (>= 12.2), mobilesubstrate, com.rileytestut.altdaemon
+Conflicts: netskao.altstore
+Filename: debs/com.azmilaila.altstoreplus.deb
+Size: 13826
+MD5sum: e1ce20fe92db082ad24476fe5d309498
+SHA1: 3217c5a4fff276fd83b1ca40e120cf6a9e4b5350
+SHA256: 4f34b11056838d42746c78dd26f6ec4313fbec5cf82a6ee2f14d6cc96d16cd0a
+Section: Tweaks
+Description: AltStore Plus, no need to connect to computer once and no need to change ALTDeviceID manually to use AltStore signatures normally. after install.. LDRestart or Reboot your phone, then go to AltStore and use it normally. I'm ashamed of doing a little work
+Author: Laila Azmi
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.altstore.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.altstore/icon.png
+Installed: 328
+Name: AltStore Plus
+
+Package: com.azmilaila.arabicdev
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <sa3odka@hotmail.com>
+Installed-Size: 10524
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+Filename: debs/com.azmilaila.arabicdev.deb
+Size: 2545660
+MD5sum: 12636ea2cfc6a820fade4977b4d5cade
+SHA1: 19a1782539a6808598d1f657f075d7747faebf05
+SHA256: 58d56b4658360dd869791095536e6e96888aae884a9ae11d88d2479f7aed8e7f
+Section: Tweaks
+Author: Halem
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.arabicdev.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.arabicdev/icon.png
+Name: ARABIC DEV
+
+Package: com.azmilaila.audiofix
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.audiofix.deb
+Size: 66954
+MD5sum: ec2de4b9aa44170db41f36a458afbbdf
+SHA1: 016d2c431c448567fdd29ee74236f85ba2eb797d
+SHA256: 5fc58f1f6d4888c7d8dce3056e04a00294def281e165b209de521e0f5e9c5d54
+Section: Tweaks
+Description:
+  • Unlocked All Features.
+  • Enjoy Premium Lifetime
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.audiofix.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.audiofix/icon.png
+Name: AudioFix® Vip
+
+Package: com.azmilaila.bazaart
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.bazaart.deb
+Size: 121116
+MD5sum: 384262aac5452ac125609b91d77c5f7a
+SHA1: 2e97cf4eb4d25a5b74ecb9e8b05d8d4258f27bf5
+SHA256: 37c864ca88098aef4241f0d51610722fca4bc2a9f239cf39b6479a54836c613a
+Section: Tweaks
+Description:
+  • Unlocked All Features.
+  • No ads, No Watermark
+  • Save HD Picture & More
+  • Enjoy Premium Lifetime
+Tag: purpose::extension, compatible_max::ios14
+Author: Pxcex
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.bazaart.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.bazaart/icon.png
+Name: Bazaart® Vip
+
+Package: com.azmilaila.curvesb
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi <lailaazmi@my.com>
+Filename: debs/com.azmilaila.curvesb.deb
+Size: 3499406
+MD5sum: 926d7d7d385a4dc50a8d414d2160c40c
+SHA1: 144ae9bb87394325484282889c4f9df1668b1738
+SHA256: 7957eae8348d64713f202f5187ae173dac25da4091ff00ebd8db57ecb658cfd2
+Section: Themes
+Description: Curve design blend into lines to create perfect status bar design.
+Tag: purpose::extension, compatible_min::ios5.1, compatible_max::ios14.5
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: http://repo.twickd.com/get/com.twickd.devy-design.curve-status-bar
+Icon: https://azmilaila.github.io/laila/com.azmilaila.curve/icon.png
+Name: Curve Status Bar
+
+Package: com.azmilaila.ftt
+Version: 0.3.5
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi <lailaazmi@my.com>
+Installed-Size: 464
+Depends: mobilesubstrate, com.randy420.tools
+Filename: debs/com.azmilaila.ftt.deb
+Size: 71740
+MD5sum: 4ae2ee438132e05f3af11ea0c7d65510
+SHA1: f502a7bf467ab40d8be88fac5f63bda6ed107ea6
+SHA256: b8be137d2a6b0fdce566babb3d12485b902989157921a70f3e9112480854be7f
+Section: Utilities
+Homepage: https://theemeraldisle.family
+Description: First made by iPad_kid - then updated by myself. Change Flex 3 patches into Theos projects using simple terminal commands. Use 'ftt -?' For a full list of options.    Flex 3 beta repo - http://getdelta.co     Original flex to theos coding I found :https://github.com/ipadkid358/FlexToTheos/find/master?q=
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.ftt.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.utilitas/icon.png
+Name: Flex To Theos
+
+Package: com.azmilaila.inapp14
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi <lailaazmi@my.com>
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.inapp14.deb
+Size: 5956
+MD5sum: 631c0fc28146295502335bb5e2341c8d
+SHA1: 72f42d0193125c090902e3f1fc9521f668837563
+SHA256: d2b1d06c440dc7c52b2da70ea4f67c1196c40de2b632d07c762d6b11a0b921f0
+Section: Tweaks
+Description: Free In-App Purchases Available on iOS 14. Go to settings to configure.
+Author: Laila Azmi
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.inapp14.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.inapp14/icon.png
+Name: InApp Purchases 14
+
+Package: com.azmilaila.jooxpremium
+Version: 4.0.7
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi
+Installed-Size: 416
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.jooxpremium.deb
+Size: 134304
+MD5sum: 02789191151709dd6aa8d041b3e0044c
+SHA1: 64f1f3f5e17c698dff727889239171813f176e30
+SHA256: 29d2c6571ee8f30c71b536534bfca83183dad4929a7631613df14db54d08af87
+Section: Tweaks
+Description: VIP Music, Download songs and listen to them Offline (320kbps) HI-FI, DTS Active, Enjoy Music!
+Tag: purpose::extension, compatible_max::ios14
+Author: Pxcex
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.jooxpremium.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.jooxpremium/icon.png
+Name: Joox® Premium
+
+Package: com.azmilaila.multi-pla
+Version: 2.1.5
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi <lailaazmi@my.com> <lau7995ren@gmail.com>
+Installed-Size: 3296
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.peppa.Primo, com.eswick.harbor7, xyz.burritoz.thomz.multiplalite
+Replaces: xyz.burritoz.thomz.multiplalite
+Filename: debs/com.azmilaila.multipla.deb
+Size: 992032
+MD5sum: 6f5b07b772a49e0c7c047d68fae7f2b5
+SHA1: 014040d368813480ee1d780d8a762d12fc52f73c
+SHA256: 2b310412b4239f2df71c944be2716c8e121cc15f81e9c2f4664381421ffde981
+Section: Tweaks
+Description: Power to your Dock
+Tag: compatible_min::ios13.0
+Author: Thomz and ren7995 <lau7995ren@gmail.com>
+Depiction: https://chariz.com/buy/multipla
+Icon: https://azmilaila.github.io/laila/com.azmilaila.multipla/icon.png
+Name: Multipla
+
+Package: com.azmilaila.orion
+Version: 1.1.0-2
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi <lailaazmi@my.com>
+Installed-Size: 8004
+Depends: firmware (>= 13.0), firmware (<= 14.5), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: debs/com.azmilaila.orion.deb
+Size: 3028912
+MD5sum: afcb0cb1c7f3a62c7cfef3932530d5f7
+SHA1: 7cff4e79dddf153fe505ac9f7f93fe623ead8f87
+SHA256: 503a6e0483822993dd99752a6639714e4da0495222314b924fb75f13f8d543f4
+Section: Tweaks
+Description: Multitweek yang bertenaga untuk menyempurnakan sistem.
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Depiction: https://chariz.com/buy/orion
+Icon: https://chariz.com/cdn/icon/orion/icon@3x.png
+Name: Orion
+Sileodepiction: https://chariz.com/buy/orion
+
+Package: com.azmilaila.prysmr1ngcc
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi <lailaazmi@my.com>
+Filename: debs/com.azmilaila.prysmr1ngcc.deb
+Size: 1260972
+MD5sum: 18d6da851990cf94963d975ecbf7dd96
+SHA1: c7dcc6d821812f9b68ddbb5de3d7bf53188a7bed
+SHA256: 170c573225f4aec53d93ac0a04e2ef01c0efe430276a33f537c18c71e2aae8d4
+Section: Themes
+Description: Most Fav Space Elements with Rings for Your Prysm Control Centre.
+Author: Devy_Design
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.prysmcc.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.prysmcc/icon.png
+Name: Prysm RingCC
+
+Package: com.azmilaila.signalsecure
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.signalsecure.deb
+Size: 67830
+MD5sum: ed5b7e0f23bbfe133c0a936f7246c677
+SHA1: 490d49303c28faaa747042c3bc1dd8821800e5cb
+SHA256: e975f84028ee83632d96e5b3ec7037db7f2c47e626a630ce71643874994df372
+Section: Tweaks
+Description:
+  • Unlocked All Features.
+  • Enjoy Premium Lifetime
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.signalsecure.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.signalsecure/icon.png
+Name: Signal Secure® Vip
+
+Package: com.azmilaila.sonic
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi <lailaazmi@my.com>
+Installed-Size: 3282
+Depends: uikittools, com.twickd.zeph.toneenabler13
+Filename: debs/com.azmilaila.sonic.deb
+Size: 1500658
+MD5sum: 440ca8620f64d6f18816a78386417536
+SHA1: e86db9fa048a6d38ab71024f53c38dc88db7846c
+SHA256: cb15d0eabdd52f5ca4eabaddb1be2835f5f320de09b9ff8887673853c458c78c
+Section: Tweaks
+Description: Create your ringtones in the blink of an eye.
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios14.5
+Author: Zeph <aboutzeph@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.zeph.sonic
+Icon: https://azmilaila.github.io/laila/com.azmilaila.sonic/icon.png
+Name: Sonic
+Sileodepiction: https://repo.twickd.com/package/com.twickd.zeph.sonic/native
+
+Package: com.azmilaila.titan
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi
+Installed-Size: 652
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Conflicts: com.spicat.youpip
+Filename: debs/com.azmilaila.titan.deb
+Size: 160234
+MD5sum: 0237fd3724bc35df310ce78eec0914e0
+SHA1: d48f9985b2a59b161a3d997f6ecf5c5461d2149c
+SHA256: b32587acf0e0fccc5e350beacd739316d3edbe8451f318f8e176786c7771b38a
+Section: Tweaks
+Description: True picture in picture support for all your favorite apps
+Tag: compatible_min::ios13.0
+Author: tcbrooks
+Depiction: https://chariz.com/buy/titan
+Icon: https://chariz.com/cdn/icon/titan/icon@3x.png
+Name: Titan
+
+Package: com.azmilaila.tools
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi <lailaazmi@my.com>
+Installed-Size: 1752
+Depends: ws.hbang.common
+Filename: debs/com.azmilaila.tools.deb
+Size: 658856
+MD5sum: 01b8b2da4a48c19d2f55701a1b8fef5b
+SHA1: 300ab27afa9de0f1bc23080b7d030fcedda22ffd
+SHA256: 24d7e5cc2b728333c74439f9d87cdf36b458434cddeee5bcf26b8d76758410da
+Section: System
+Homepage: https://theemeraldisle.family
+Description: Tools for Randy420's tweaks
+Tag: role::hacker
+Author: Randy420 <randy.skinner@hotmail.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.tools.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.utilitas/icon.png
+Name: 420 Tools
+
+Package: com.azmilaila.toonme
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.toonme.deb
+Size: 69252
+MD5sum: 52c4a4f6eea5d7fd630fe6db571dea95
+SHA1: d5ba28807cf037cc6c37230b5d2364a1698bca20
+SHA256: aac330132840e60cc2ec15e7c6be940516832939a72f86bea221b3cf7750f336
+Section: Tweaks
+Description:
+  • Unlocked All Features.
+  • Enjoy Premium Lifetime
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.toonme.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.toonme/icon.png
+Name: ToonMe® Vip
+
+Package: com.azmilaila.turbovpn
+Version: 3.7
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.turbovpn.deb
+Size: 70278
+MD5sum: 1813d4b9386e98bccca172fa046044eb
+SHA1: 632145ca14225d6e0bc41d2a0b43350f411fc95e
+SHA256: 5b0087b9870191890223b1575ef9275441ba14c03e6ac7c54ab9be317d23c12d
+Section: Tweaks
+Description: Description:
+  • Unlocked All Features.
+  • Enjoy Premium Lifetime
+Author: Laila Azmi
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.turbovpn.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.turbovpn/icon.png
+Name: Turbo Vpn® Vip
+
+Package: com.azmilaila.videoshow
+Version: 5.5.7
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.videoshow.deb
+Size: 75756
+MD5sum: 3ebc66b15163ef663e3eae2369b23977
+SHA1: 05150c61afeb37a7694292ac32297daaadc27da7
+SHA256: 38cb26a1455dbaa3be5d81a7cf2fa721d512d9e557e82487886c79d9f4fc2cf4
+Section: Tweaks
+Description:
+ • Unlocked All Features.
+ • Remove Ads & Watermark
+ • Save HD Video 4K ---
+ • Enjoy Premium Lifetime
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.videoshow.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.videoshow/icon.png
+Name: VideoShow® Vip
+
+Package: com.azmilaila.workingcopy
+Version: 4.6.7
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/com.azmilaila.workingcopy.deb
+Size: 68074
+MD5sum: 6a65ccbb5ee2509855fa72a5c31a876f
+SHA1: 1052272d5c16be80a6d5a331bec435d9bae38e9a
+SHA256: b7d71da5ecd2bb5342757b6133e723fc9306f989368fb02b9fb2508e0182ffe0
+Section: Tweaks
+Description:
+ • Unlocked All Features.
+ • Enjoy Premium Lifetime Working Copy Premium features acktivated, with this tool you can clone your Repositories and organize your tweaks and repos with one tap. Very simple..!!
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.workingcopy.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.workingcopy/icon.png
+Name: Working Copy® Vip
+
+Package: com.azmilaila.ytreborn
+Version: 2.0.0.5
+Architecture: iphoneos-arm
+Maintainer: Lailaazmi <lailaazmi@my.com>
+Installed-Size: 1016
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.sarahh12099.youtube-reborn
+Replaces: net.sarahh12099.youtubereborn
+Filename: debs/com.azmilaila.ytreborn.deb
+Size: 343210
+MD5sum: 72f9cf88b88ad4e2a97f016bb83348c8
+SHA1: b0eb8aeeb8705d116ffc0a211097997f1db05ced
+SHA256: 903d4b41fc3d7ad2401e7cce86dc7a0261d693e0d2edbbb101db3e4014ca6948
+Section: Tweaks
+Description: YouTube Customizer
+Tag: compatible_min::ios13.0, compatible_max::ios14.5
+Author: SarahH12099 <sarahh12099@gmail.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.ytreborn.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.ytreborn/icon.png
+Name: YouTube Reborn
+
