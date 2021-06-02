@@ -1,7 +1,7 @@
 #!/bin/bash
 cd "$(dirname $0)"
-rm -f Packages.bz2
-rm -f Packages.xz
+rm -r Packages.bz2
+rm -R Packages
 dpkg-scanpackages -m . /dev/null >Packages
 bzip2  Packages
 dpkg-scanpackages -m . /dev/null >Packages
