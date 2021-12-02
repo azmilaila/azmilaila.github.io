@@ -258,6 +258,104 @@ a {
     padding: 30px;
 }
 
+#audio {
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+audio {
+  autoplay: true;
+}
+
+#video {
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+video {
+  width: 100.2%;
+  height: auto;
+  cursor: pointer;
+}
+
+/*Spinner load*/
+.poster {
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  top: 200px;
+  left: 50%;
+  transform: rotateZ(45deg);
+}
+
+.poster .cube {
+	position: relative;
+	transform: rotateZ(45deg);
+}
+
+.poster .cube {
+	float: left;
+	width: 50%;
+	height: 50%;
+	position: relative;
+	transform: scale(1.1);
+}
+
+.poster .cube:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgb(43,160,199);
+	animation: cube 1.08s infinite linear both;
+	transform-origin: 100% 100%;
+}
+
+.poster .c2 {
+	transform: scale(1.1) rotateZ(90deg);
+}
+
+.poster .c3 {
+	transform: scale(1.1) rotateZ(180deg);
+}
+
+.poster .c4 {
+	transform: scale(1.1) rotateZ(270deg);
+}
+
+.poster .c2:before {
+	animation-delay: 0.135s;
+}
+
+.poster .c3:before {
+	animation-delay: 0.27s;
+}
+
+.poster .c4:before {
+	animation-delay: 0.405s;
+}
+
+@keyframes cube {
+	0%, 10% {
+		transform: perspective(70px) rotateX(-180deg);
+		opacity: 0;
+	}
+  
+	25%, 75% {
+		transform: perspective(70px) rotateX(0deg);
+		opacity: 1;
+	}
+  
+  90%, 100% {
+    transform: perspective(70px) rotateY(180deg);
+    opacity: 0;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background: #000000;
