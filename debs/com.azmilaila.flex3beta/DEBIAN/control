@@ -1,0 +1,17 @@
+Package: com.azmilaila.flex3
+Name: Flex 3
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0), com.azmilaila.flex3fix
+Recommended: com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly, Flex3beta
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly, Flex3beta
+Version: 1:3~Beta100
+Architecture: iphoneos-arm
+Description:
+   •FIXED FOR IOS 13 - 14 - 15
+   •Develop your own tweaks and share
+   •Them on the Flex Community Cloud
+Maintainer: Lailaazmi
+Author: John Coates
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.flex3.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.utilitas/icon.png
+Section: Utilities

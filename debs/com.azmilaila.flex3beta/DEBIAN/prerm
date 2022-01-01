@@ -1,0 +1,8 @@
+mode="$1"
+# remove Flex directory that might be left over from APFS installations
+if [[ "$mode" == "remove" ]]; then
+  if [[ -d /Applications/Flex.app ]]; then
+    echo "Removing Flex.app from /Applications"
+    rm -rf /Applications/Flex.app
+  fi
+fi

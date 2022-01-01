@@ -1,0 +1,13 @@
+#!/bin/sh
+
+mode="$1"
+
+# remove all processed app files as long as this removal
+# is not for a package upgrade
+if [[ "$mode" != "upgrade" ]]; then
+  if [[ -d /var/mobile/Documents/Flex ]]; then
+    rm -f /var/mobile/Documents/Flex/*.dat 2>/dev/null
+  fi
+fi
+
+exit 0;
